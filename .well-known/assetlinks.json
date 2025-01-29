@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "rmaconnect2.app",
+      "sha256_cert_fingerprints": [
+        "SHA256: 83:50:8E:F3:89:24:E7:B0:E1:5E:61:37:DE:CA:E2:ED:BD:E1:BE:26:01:E4:36:16:FA:84:6C:9B:85:CB:64:E3"
+      ]
+    }
+  }]
